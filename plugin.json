@@ -1,0 +1,12 @@
+{
+  "name": "pqt-agent-skills",
+  "version": "1.0.0",
+  "description": "Production-grade engineering skills for AI coding agents, featuring a robust multi-agent orchestration framework.",
+  "commands": [
+    {
+      "name": "team",
+      "description": "Khởi tạo và điều phối nhóm phát triển đa-agent (Leader, Coder, Tester, Reviewer, Shipper)",
+      "file": ".claude/commands/team.md"
+    }
+  ]
+}
